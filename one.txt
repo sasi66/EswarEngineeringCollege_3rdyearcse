@@ -1,5 +1,57 @@
- This is one ,welcome to one page
- This is one ,welcome to one page
- This is one ,welcome to one page
- This is one ,welcome to one page
- This is one ,welcome to one page
+Git And GitHub
+
+Git is a ditributed Version Control System
+It is a local system
+Github it is remote repository
+Suppose if we want to share our project to any person.
+Where this git and Github will be used?
+1.Software Industry
+2.online certiifcation like coursera,udacity,udemy..etc
+(you can share your project through the link,before links we used like google drive)
+3.Static Page Hosting(like harideep.github.io) 
+
+What is the command in the linux to create a folder
+
+mkdir foldername(sample)
+documents to project-cd sample
+how many files present in the sample project 
+ls
+create some files in the linux
+touch filename
+touch one.txt
+touch two.txt
+touch about.html
+
+cat filename.txt
+1)creating a github
+
+First step is initialize that repository
+push
+pull
+
+5 steps 
+1.git init
+2.git add one.txt,two.txt
+
+git add .
+
+3)git commit -m "firstsending"
+4)git remote (master,main)
+5)git status
+6)git config --global user.name
+7)git config --global user.email
+8)git remote add origin pasteurl
+9)git push origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
